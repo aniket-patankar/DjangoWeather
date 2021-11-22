@@ -1,3 +1,4 @@
+# added comments to views.py in lookup app
 from django.shortcuts import render
 
 # Create your views here.
